@@ -1,0 +1,11 @@
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\bin\Debug\TelephoneBook.Console.exe.config
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\bin\Debug\TelephoneBook.Console.exe
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\bin\Debug\TelephoneBook.Console.pdb
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\bin\Debug\TelephoneBook.Lib.dll
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\bin\Debug\TelephoneBook.Lib.pdb
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\obj\Debug\TelephoneBook.Console.exe
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\obj\Debug\TelephoneBook.Console.pdb
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Console\obj\Debug\TelephoneBook.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Dion Thiers\GitHub\prog5-telephone-dthiers\TelephoneBook.Console\bin\Debug\TelephoneBook.Console.exe.config
+C:\Users\Dion Thiers\GitHub\prog5-telephone-dthiers\TelephoneBook.Console\obj\Debug\TelephoneBook.Console.exe
+C:\Users\Dion Thiers\GitHub\prog5-telephone-dthiers\TelephoneBook.Console\obj\Debug\TelephoneBook.Console.pdb

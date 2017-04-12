@@ -1,0 +1,5 @@
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Lib\obj\Debug\TelephoneBook.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Lib\bin\Debug\TelephoneBook.Lib.dll
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Lib\bin\Debug\TelephoneBook.Lib.pdb
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Lib\obj\Debug\TelephoneBook.Lib.dll
+C:\Users\Dion Thiers\GitHub\SudokuDesignPatterns\TelephoneBook.Lib\TelephoneBook.Lib\obj\Debug\TelephoneBook.Lib.pdb
